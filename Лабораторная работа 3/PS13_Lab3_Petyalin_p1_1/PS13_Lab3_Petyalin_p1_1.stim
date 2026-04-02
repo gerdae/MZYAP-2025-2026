@@ -1,0 +1,19 @@
+$log OCR0A
+$log OCR0B
+$log SREG
+$startlog p1_1_result.stim
+#6
+OCR0A = 0
+OCR0B = 0
+#7
+OCR0A = 15
+OCR0B = 15
+#7
+OCR0A = 182
+OCR0B = 181
+#7
+OCR0A = 20
+OCR0B = 20
+#7
+$stoplog
+$break
