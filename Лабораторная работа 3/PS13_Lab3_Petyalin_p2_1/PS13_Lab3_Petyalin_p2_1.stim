@@ -1,0 +1,16 @@
+$log OCR0A
+$log OCR0B
+$log SREG
+$startlog p2_1.stim
+#6
+OCR0A = 128
+OCR0B = 127
+#7
+OCR0A = 128
+OCR0B = 128
+#7
+OCR0A = 128
+OCR0B = 129
+#7
+$stoplog
+$break
