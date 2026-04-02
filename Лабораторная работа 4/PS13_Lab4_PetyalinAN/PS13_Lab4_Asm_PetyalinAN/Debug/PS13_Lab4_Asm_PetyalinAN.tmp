@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\Debug\PS13_Lab4_Asm_PetyalinAN.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PS13_Lab4_Asm_PetyalinAN.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PS13_Lab4_Asm_PetyalinAN.map</FILE>
+  <FILE>PS13_Lab4_Asm_PetyalinAN.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\main.asm</FILE><LINE>9</LINE></reset>
+  <main><FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\main.asm</FILE><LINE>12</LINE></main>
+  <loop><FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\main.asm</FILE><LINE>17</LINE></loop>
+  <led_off><FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\main.asm</FILE><LINE>23</LINE></led_off>
+  <setup_delay><FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\main.asm</FILE><LINE>26</LINE></setup_delay>
+  <loop_delay><FILE>c:\users\g3rdae\Documents\Atmel Studio\7.0\PS13_Lab4_PetyalinAN\PS13_Lab4_Asm_PetyalinAN\main.asm</FILE><LINE>31</LINE></loop_delay>
+ </LABELS>
+</ASSEMBLER_INFO>
